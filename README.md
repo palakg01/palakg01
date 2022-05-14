@@ -17,9 +17,6 @@ I'm a passionate, self-taught Web Developer who loves exploring new techs and sk
 
 [![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palakg01&count_private=true&show_icons=true&theme=radical)](https://www.linkedin.com/in/palakg01/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palakg01&layout=compact&theme=radical)](https://www.linkedin.com/in/palakg01/)
-[![Palak's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=palakg01&theme=redical)](https://github.com/palakg01/github-readme-activity-graph)
-
-![](https://komarev.com/ghpvc/?username=palakg01&style=plastic&color=brightgreen)
 
 
 Want to collaborate? Feel free to connect😄
