@@ -16,11 +16,8 @@ I'm a passionate, self-taught Web Developer who loves exploring new techs and sk
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 
-<hr>
-
-[![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palakg01&count_private=true&show_icons=true&theme=radical)](https://www.linkedin.com/in/palakg01/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palakg01&layout=compact&theme=radical)](https://www.linkedin.com/in/palakg01/)
-
+| <a href="https://github.com/palakg01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=palakg01&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Palak Gupta's Github Stats" /></a> | <a href="https://github.com/palakg01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakg01&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 Want to collaborate? Feel free to connect😄
 
